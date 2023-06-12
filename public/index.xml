@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/benefits/benefit-2/</guid>
-      <description>Instant customization at click of finger and</description>
+      <description>Instant customization at click of finger and get the next paper you need to advance forward.</description>
     </item>
     
     <item>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Sign Up Today</title>
-      <link>http://example.org/benefits/benefit-3/</link>
+      <link>http://example.org/benefits/call-of-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/benefits/benefit-3/</guid>
+      <guid>http://example.org/benefits/call-of-action/</guid>
       <description>Sign up today to subscribe to the latest industrial trends.</description>
     </item>
     
@@ -51,6 +51,15 @@
       <description>This is an open source project which will bring the edge of technology to you.
 Buckle up and feel the VIBE
 © 2023 by shengxio</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/header/</guid>
+      <description>it looks here</description>
     </item>
     
   </channel>

@@ -8,9 +8,12 @@
   </url><url>
     <loc>http://example.org/benefit-3-copy/</loc>
   </url><url>
-    <loc>http://example.org/benefits/benefit-3/</loc>
+    <loc>http://example.org/benefits/call-of-action/</loc>
   </url><url>
     <loc>http://example.org/footer/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://example.org/header/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://example.org/benefits/</loc>
