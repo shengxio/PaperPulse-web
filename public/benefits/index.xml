@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benefits on PaperPulse</title>
+    <link>http://example.org/benefits/</link>
+    <description>Recent content in Benefits on PaperPulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/benefits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access to Edge</title>
+      <link>http://example.org/benefits/benefit-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-1/</guid>
+      <description>Stay tuned with all the scientific paper and industrial standards new and old.</description>
+    </item>
+    
+    <item>
+      <title>AI backed customization</title>
+      <link>http://example.org/benefits/benefit-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-2/</guid>
+      <description>Instant customization at click of finger and</description>
+    </item>
+    
+    <item>
+      <title>Sign Up Today</title>
+      <link>http://example.org/benefits/benefit-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-3/</guid>
+      <description>Sign up today to subscribe to the latest industrial trends.</description>
+    </item>
+    
+  </channel>
+</rss>

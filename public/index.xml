@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PaperPulse</title>
+    <link>http://example.org/</link>
+    <description>Recent content on PaperPulse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access to Edge</title>
+      <link>http://example.org/benefits/benefit-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-1/</guid>
+      <description>Stay tuned with all the scientific paper and industrial standards new and old.</description>
+    </item>
+    
+    <item>
+      <title>AI backed customization</title>
+      <link>http://example.org/benefits/benefit-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-2/</guid>
+      <description>Instant customization at click of finger and</description>
+    </item>
+    
+    <item>
+      <title>Sign Up Today</title>
+      <link>http://example.org/benefit-3-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefit-3-copy/</guid>
+      <description>Sign up today to subscribe to the latest industrial trends.</description>
+    </item>
+    
+    <item>
+      <title>Sign Up Today</title>
+      <link>http://example.org/benefits/benefit-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/benefit-3/</guid>
+      <description>Sign up today to subscribe to the latest industrial trends.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/footer/</guid>
+      <description>This is an open source project which will bring the edge of technology to you.
+Buckle up and feel the VIBE
+© 2023 by shengxio</description>
+    </item>
+    
+  </channel>
+</rss>
