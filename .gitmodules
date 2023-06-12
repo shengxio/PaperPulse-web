@@ -1,0 +1,3 @@
+[submodule "themes/lean-launch"]
+	path = themes/lean-launch
+	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git

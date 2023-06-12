@@ -1,0 +1,28 @@
+# main site info
+baseURL: 'http://example.org/'
+title: 'PaperPulse'
+author: 'Roland Ding'
+
+# site settings
+theme: 'lean-launch'
+languageCode: 'en-us'
+cannonicalURL: true
+paginate: 3
+
+# site analytics
+# googleAnalytics = 'UA-XXXXX-X'
+
+params:
+    tagline: "We help industry professionals like engineers and scientists to stay at the edge of technology by bringing the best articles for you."
+    mailchimpURL: "//my-account.mailchimp.com/my-subscriber-url"
+
+    # mastodon: "https://mastodon.url/@MyNewProduct"
+    # twitter: "https://twitter.com/MyNewProduct"
+    # facebook: "https://facebook.com/MyNewProduct"
+    # instagram: "https://instagram.com/MyNewProduct"
+    # youtube: "https://www.youtube.com/channel/MyNewChannel"
+    # linkedin: "https://www.linkedin.com/company/MyNewProduct"
+    github: "https://github.com/shengxio/PaperPulse"
+
+    images:
+    - "favicon.png"
