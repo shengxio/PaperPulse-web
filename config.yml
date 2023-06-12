@@ -4,7 +4,7 @@ title: 'PaperPulse'
 author: 'Roland Ding'
 
 # site settings
-theme: 'lean-launch'
+theme: 'lean'
 languageCode: 'en-us'
 cannonicalURL: true
 paginate: 3
